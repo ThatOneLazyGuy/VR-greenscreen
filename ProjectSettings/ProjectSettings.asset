@@ -131,6 +131,7 @@ PlayerSettings:
   preloadedAssets:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 11400000, guid: d8a2be1c5a15af24cb7341240ce58f82, type: 2}
   - {fileID: -252969080247733855, guid: 186818e9d5092d14498c009f41795472, type: 2}
   - {fileID: 11400000, guid: 4c971b59c1f1609429d78883f14960f6, type: 2}
@@ -150,7 +151,8 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.VrGreenscreen
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -694,8 +696,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Template_3D
-  metroPackageVersion: 
+  metroPackageName: Template3D
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -703,7 +705,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Template_3D
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Vr Greenscreen
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
